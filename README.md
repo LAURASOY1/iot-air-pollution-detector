@@ -1,2 +1,2 @@
 # iot-air-pollution-detector
-Detects high levels of air pollution
+Detects levels of air pollution and lets you know the air quality of the environment you are in
